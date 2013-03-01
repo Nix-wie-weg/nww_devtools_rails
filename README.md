@@ -1,7 +1,7 @@
 # Nww-Devtools for Rails
 
-These dependent gems are used in development here at
-[Nix-wie-weg GmbH & Co. KG](http://technik.nix-wie-weg.de/):
+These dependent gems are used for Rails development here at
+[Nix-wie-weg<sup>®</sup>](http://technik.nix-wie-weg.de/):
 
 * [nww_devtools](https://github.com/Nix-wie-weg/nww_devtools)
 * better_errors
