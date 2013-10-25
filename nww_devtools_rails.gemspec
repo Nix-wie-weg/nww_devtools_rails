@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.version       = NwwDevtoolsRails::VERSION
 
   gem.add_dependency 'nww_devtools', '0.1.0'
-  gem.add_dependency 'better_errors'
+  gem.add_dependency 'better_errors', '>= 1'
   gem.add_dependency 'binding_of_caller'
   gem.add_dependency 'require_reloader'
 end
