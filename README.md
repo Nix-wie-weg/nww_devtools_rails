@@ -7,3 +7,7 @@ These dependent gems are used for Rails development here at
 * [better_errors](https://github.com/charliesome/better_errors)
 * [binding_of_caller](https://github.com/banister/binding_of_caller)
 * [require_reloader](https://github.com/teohm/require_reloader)
+
+## Credits
+
+* [funglaub](https://github.com/funglaub) former colleague

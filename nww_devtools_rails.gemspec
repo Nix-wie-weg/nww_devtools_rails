@@ -3,9 +3,8 @@
 require File.expand_path('../lib/nww_devtools_rails/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ['Florian Dütsch', 'Florian Unglaub']
-  gem.email         = ['florian.duetsch@nix-wie-weg.de',
-                       'florian.unglaub@nix-wie-weg.de']
+  gem.authors       = ['Florian Dütsch']
+  gem.email         = ['florian.duetsch@nix-wie-weg.de']
   gem.description   = 'Gems used for Rails development at Nix-wie-weg'
   gem.summary       = 'Gems used for Rails development at Nix-wie-weg'
   gem.homepage      = 'https://github.com/Nix-wie-weg/nww_devtools_rails'
