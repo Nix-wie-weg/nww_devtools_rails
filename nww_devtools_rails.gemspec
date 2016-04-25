@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
   gem.version       = NwwDevtoolsRails::VERSION
 
-  gem.add_dependency 'nww_devtools', '>= 2.0.2'
+  gem.add_dependency 'nww_devtools', '>= 2.0.3'
   gem.add_dependency 'better_errors', '>= 1'
   gem.add_dependency 'binding_of_caller'
   gem.add_dependency 'require_reloader'
