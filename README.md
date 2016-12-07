@@ -1,3 +1,9 @@
+## Deprecated!
+
+See
+[nww_devtools](https://github.com/Nix-wie-weg/nww_devtools#what-about-the-meta-gems)
+for more information.
+
 # Nww-Devtools for Rails
 
 These dependent gems are used for Rails development here at
